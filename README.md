@@ -2,4 +2,4 @@
 Educational and Instructional resources
 
 
-Check out the [starter kit](https://www.wago.com/global/d/12984).
+Check out the [starter kit](https://www.wago.com/global/d/12984)
