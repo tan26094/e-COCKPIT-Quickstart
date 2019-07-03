@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbolconfiguration xmlns="http://www.3s-software.com/schemas/Symbolconfiguration.xsd">
+  <Header>
+    <Version>3.5.11.0</Version>
+    <SymbolConfigObject version="3.5.11.10" runtimeid="3.5.11.1" libversion="3.5.11.0" compiler="3.5.11.10" lmm="3.5.11.10" profile="e!COCKPIT" settings="SupportOPCUA, LayoutCalculator=CompatibilityClientSideLayoutCalculator" />
+    <ProjectInfo name="e!C_WagoBeijer_OPCUA_Test_1" devicename="Controller" appname="Application" />
+  </Header>
+  <TypeList>
+    <TypeSimple name="T_INT" size="2" swapsize="2" typeclass="Int" iecname="INT" />
+    <TypeSimple name="T_REAL" size="4" swapsize="4" typeclass="Real" iecname="REAL" />
+    <TypeSimple name="T_WORD" size="2" swapsize="2" typeclass="Word" iecname="WORD" />
+  </TypeList>
+  <NodeList>
+    <Node name="Application">
+      <Node name="GVL">
+        <Node name="rGlobalVar2" type="T_REAL" access="ReadWrite" />
+        <Node name="wGlobalVar1" type="T_WORD" access="ReadWrite" />
+      </Node>
+      <Node name="PLC_PRG">
+        <Node name="wLocalVar1" type="T_INT" access="ReadWrite" />
+      </Node>
+    </Node>
+  </NodeList>
+</Symbolconfiguration>
