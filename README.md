@@ -4,13 +4,12 @@
 Check out the starter kit for e!COCKPIT (hereafter e!C) [here](https://www.wago.com/global/d/12984).\
 For unzipping, please use **7-zip** or **WinRAR**.
 
-<div align="center">
-   <br>
-  <img src="img\05_install_and_check_it_out.png"><br><br>
-</div>
 
 ## Installation
-
+<div align="center">
+   <br>
+  <img src="img\05_install_and_check_it_out.png" witdh="200"><br><br>
+</div>
 
 1. **Recommended steps before installing:**
    1. Temporarily deactivate Windows Firewall
@@ -49,12 +48,12 @@ The tool mentioned above removes the ADS entries that lead to conflicts (ADS sta
    3. Run Windows => StartButton => Run =  `regedit.exe` Search + Delete all registry keys containing `WAGO CODESYS V3.5`. Delete the associated Windows installation-reference folder, typically: `C:\Windows\Installer\{9A30716D-...}"C:\Program Files (x86)\InstallShield Installation Information\{9A30716D-...}`
    4. Download latest e!C [full-installer](https://wago.sharefile.eu/d-sd68a97c766646cb8) and run it separately with `install as admin`    
 
-<div align="center">
-   <br>
-  <img src="img\06_repair.png"><br><br>
-</div>
 
 ## Repair
+<div align="center">
+   <br>
+  <img src="img\06_repair.png" witdh="200"><br><br>
+</div>
 
 1. **Navigate to [this](https://support.microsoft.com/en-us/mats/program_install_and_uninstall) webpage**
    1. You should see a Windows support site that *fixes problems that block programs from being installed or removed*
