@@ -6,9 +6,9 @@ For unzipping, please use **7-zip** or **WinRAR**.
 
 
 ## Installation
-<div align="center">
+<div align="left">
    <br>
-  <img src="img\05_install_and_check_it_out.png" width="100"><br><br>
+  <img src="img\05_install_and_check_it_out.png" width="200"><br><br>
 </div>
 
 1. **Recommended steps before installing:**
@@ -50,7 +50,7 @@ The tool mentioned above removes the ADS entries that lead to conflicts (ADS sta
 
 
 ## Repair
-<div align="center">
+<div align="left">
    <br>
   <img src="img\06_repair.png" width="200"><br><br>
 </div>
