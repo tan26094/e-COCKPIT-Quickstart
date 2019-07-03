@@ -8,7 +8,7 @@ For unzipping, please use **7-zip** or **WinRAR**.
 ## Installation
 <div align="center">
    <br>
-  <img src="img\05_install_and_check_it_out.png" witdh="200"><br><br>
+  <img src="img\05_install_and_check_it_out.png" width="100"><br><br>
 </div>
 
 1. **Recommended steps before installing:**
@@ -52,7 +52,7 @@ The tool mentioned above removes the ADS entries that lead to conflicts (ADS sta
 ## Repair
 <div align="center">
    <br>
-  <img src="img\06_repair.png" witdh="200"><br><br>
+  <img src="img\06_repair.png" width="200"><br><br>
 </div>
 
 1. **Navigate to [this](https://support.microsoft.com/en-us/mats/program_install_and_uninstall) webpage**
