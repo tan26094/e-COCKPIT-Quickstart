@@ -4,6 +4,8 @@
 Check out the starter kit for e!COCKPIT (hereafter e!C) [here](https://www.wago.com/global/d/12984).\
 For unzipping, please use **7-zip** or **WinRAR**.
 
+<br/><br/>
+
 <div align="left">
    <br>
   <img src="img\05_install_and_check_it_out.png" width="200"><br><br>
@@ -46,7 +48,10 @@ The tool mentioned above removes the ADS entries that lead to conflicts (ADS sta
    1. Deinstall e!C, using normal Windows Control Panel procedure
    2. Deinstall CoDeSys 3.5 kernel, using [MicrosoftFixitTool](https://support.microsoft.com/en-us/mats/program_install_and_uninstall)
    3. Run Windows => StartButton => Run =  `regedit.exe` Search + Delete all registry keys containing `WAGO CODESYS V3.5`. Delete the associated Windows installation-reference folder, typically: `C:\Windows\Installer\{9A30716D-...}"C:\Program Files (x86)\InstallShield Installation Information\{9A30716D-...}`
-   4. Download latest e!C [full-installer](https://wago.sharefile.eu/d-sd68a97c766646cb8) and run it separately with `install as admin`    
+   4. Download latest e!C [full-installer](https://wago.sharefile.eu/d-sd68a97c766646cb8) and run it separately with `install as admin` 
+   
+<br/><br/>
+
 <div align="left">
    <br>
   <img src="img\06_repair.png" width="200"><br><br>
