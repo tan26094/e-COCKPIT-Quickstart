@@ -1,8 +1,9 @@
 # e!COCKPIT-Quickstart
 >This repository conatins educational and instructional resources for e!COCKPIT, and is intended to get you up and running with e!COCKPIT fast and easy
 
-Check out the starter kit for e!COCKPIT (hereafter e!C) [here](https://www.wago.com/global/d/12984).\
-For unzipping, please use **7-zip** or **WinRAR**.
+Check out the [starter kit](https://www.wago.com/global/d/12984) for e!COCKPIT (hereafter e!C) [here](https://www.wago.com/global/d/12984).\
+You can also find general e!COCKPIT [applications](https://www.wago.com/global/search?q=*:relevance:resultType:download:docCategory1:DL_3:docCategory2:DL_64&sort=downloadcontainerdate&ststate=eyJkb3dubG9hZCI6Ii9zZWFyY2g/cVx1MDAzZColM0FyZWxldmFuY2UlM0FyZXN1bHRUeXBlJTNBZG93bmxvYWQlM0Fkb2NDYXRlZ29yeTElM0FETF8zJTNBZG9jQ2F0ZWdvcnkyJTNBRExfNjQifQ==), and supported e!COCKPIT [libraries](https://www.wago.com/global/search?q=*:relevance:resultType:download:docCategory1:DL_58:docCategory1:DL_59:docCategory1:DL_57:docCategory1:DL_56:docCategory1:DL_8:docCategory2:DL_69&sort=downloadcontainerdate&ststate=eyJmIjp7InByb2R1Y3QiOiIvc2VhcmNoP3E9KiUzQXJlbGV2YW5jZSUzQXJlc3VsdFR5cGUlM0Fwcm9kdWN0JnNpdGVOYW1lPVdBR08tREUtV2Vic2l0ZSIsImRvd25sb2FkIjoiL3NlYXJjaD9xPSolM0FyZWxldmFuY2UlM0FyZXN1bHRUeXBlJTNBZG93bmxvYWQlM0Fkb2NDYXRlZ29yeTElM0FETF81OCUzQWRvY0NhdGVnb3J5MSUzQURMXzU5JTNBZG9jQ2F0ZWdvcnkxJTNBRExfNTclM0Fkb2NDYXRlZ29yeTElM0FETF81NiUzQWRvY0NhdGVnb3J5MSUzQURMXzglM0Fkb2NDYXRlZ29yeTIlM0FETF82OSJ9LCJjIjp7ImRvd25sb2FkIjo2NiwicHJvZHVjdCI6MjY1MTIsInNlcnZpY2UiOjMwLCJzb2x1dGlvbnMiOjEwMSwiY29tcGFueSI6M319) on the same site.\
+In the installation below, please use **7-zip** or **WinRAR** for unzipping.
 
 <br/><br/>
 
