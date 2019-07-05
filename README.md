@@ -32,11 +32,15 @@ In the installation below, please use **7-zip** or **WinRAR** for unzipping.
 3. **Required steps in case of partly successful e!C installation:**
    1. Close all open instances of e!C
    2. Download the Microsoft tool [streams](https://docs.microsoft.com/en-us/sysinternals/downloads/streams)
-   3. Open a command prompt and navigate to the path `C:\ProgramData\WAGO Software`
-   4. Extract the downloaded ZIP file into the above folder
-   5. At the command prompt, type the following command: `streams.exe`
+   3. Open a *command prompt* as administrator, and run the following comands;
+      1. `cd \`
+      2. `cd "ProgramData\WAGO Software"`
+   4. Extract the downloaded ZIP file (with **7-zip** or **WinRAR**), into the above folder
+   5. In the *command prompt*, type the following command; 
+      1. `streams.exe`
    6. Confirm the license dialog if you have never used the tool before (the tool will exit afterwards).
-   7. At the command prompt, enter the command: `streams.exe -s -d *.*`\
+   7. In the *command prompt*, enter the command; 
+      1. `streams.exe -s -d *.*`\
       You should now get some lines of output text
    8. Finally you can close the prompt, e!C should be usable again in the known quality
 
