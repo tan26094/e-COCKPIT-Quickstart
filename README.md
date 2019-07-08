@@ -39,7 +39,7 @@ In the installation below, please use **7-zip** or **WinRAR** for unzipping.
    `cd "ProgramData\WAGO Software"`
    4. Extract the downloaded ZIP file (with **7-zip** or **WinRAR**), into the above folder\
       i.e. `C:\ProgramData\WAGO Software`
-   5. In the *command prompt*, type the following command;
+   5. In the *command prompt*, type the following command;\
       `streams.exe`
    6. Confirm the license dialog if you have never used the tool before (the tool will exit afterwards).
    7. In the *command prompt*, enter the command;\
