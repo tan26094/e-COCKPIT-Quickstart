@@ -2,3 +2,5 @@
 
 
 This folder contains awesome examples for learning and working with e!COCKPIT
+
+Kristian
