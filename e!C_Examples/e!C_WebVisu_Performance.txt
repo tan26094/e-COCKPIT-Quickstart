@@ -1,4 +1,5 @@
-
+dfgjkdlfg
+dfdgf
 
 How to adjust e!C WebVisu performance/capacity
 ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
@@ -15,3 +16,6 @@ Client settings:
 Maximum number of visualization clients: e.g. 15 (default = 100)
 
 
+s,gkjfdaglkfdglkfdg
+
+dafjglkdafg
